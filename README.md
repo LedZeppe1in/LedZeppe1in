@@ -1,11 +1,13 @@
 ## Hi there 👋
 
-I'm Nikita O. Dorodnykh, PhD and senior researcher from the [YRL-AIDA](https://github.com/YRL-AIDA) and [Safety Irk Lab](http://www.safety-irk.ru/) at the [Matrosov Institute for System Dynamics and Control Theory of the Siberian Branch of Russian Academy of Sciences (ISDCT SB RAS)](https://idstu.irk.ru/en/main).
+My name is Nikita O. Dorodnykh. I'am PhD and senior researcher from the [YRL-AIDA](https://github.com/YRL-AIDA) and the [Safety Irk Lab](http://www.safety-irk.ru/) at the [Matrosov Institute for System Dynamics and Control Theory of the Siberian Branch of Russian Academy of Sciences (ISDCT SB RAS)](https://idstu.irk.ru/en/main).
+
+My research interests include development of intelligent systems, model-driven engineering, knowledge engineering, semantic web, knowledge graphs, ontologies, data analyzing, table understanding, and semantic table interpretation.
 
 <img src="https://komarev.com/ghpvc/?username=LedZeppe1in" />
 
 
-### My main languages, libraries, and tools:
+### Main languages, libraries, and tools:
 <table>
 <tbody>
   <tr>
