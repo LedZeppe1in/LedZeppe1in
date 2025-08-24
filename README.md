@@ -5,12 +5,15 @@ I'm Nikita O. Dorodnykh, a PhD student from the [YRL-AIDA](https://github.com/YR
 <img src="https://komarev.com/ghpvc/?username=LedZeppe1in" />
 
 
-##### My languages and libraries:
+### My main languages, libraries, and tools:
 <table>
 <tbody>
   <tr>
-    <td><img src="./assets/python-logo.png" width=90 style="text-align:center;vertical-align:center" /></td>
-    <td><img src="./assets/pytorch-logo-dark.png" width=80 style="text-align:center;vertical-align:center" /></td>
+    <td><img src="./assets/php-logo.png" width=100 style="text-align:center;vertical-align:center" /></td>
+    <td><img src="./assets/laravel-logo.png" width=100 style="text-align:center;vertical-align:center" /></td>
+    <td><img src="./assets/postgresql-logo.png" width=100 style="text-align:center;vertical-align:center" /></td>
+    <td><img src="./assets/python-logo.png" width=100 style="text-align:center;vertical-align:center" /></td>
+    <td><img src="./assets/pytorch-logo-dark.png" width=100 style="text-align:center;vertical-align:center" /></td>
   </tr>
 </tbody>
 </table>
