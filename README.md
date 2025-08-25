@@ -29,7 +29,7 @@ My name is Nikita O. Dorodnykh. I'am a PhD and a senior researcher from the [YRL
 
 ### :fire: My stats:
 
-![](https://github-readme-stats.vercel.app/api?username=LedZeppe1in&count_private=true&show_icons=true&hide_rank=false&hide_border=true&include_all_commits=true&theme=default)
+![](https://github-readme-stats.vercel.app/api?username=LedZeppe1in&count_private=true&show_icons=true&hide_rank=false&include_all_commits=true&theme=default)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LedZeppe1in&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
