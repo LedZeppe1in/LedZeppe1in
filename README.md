@@ -6,14 +6,14 @@ My name is Nikita O. Dorodnykh. I'am a PhD and a senior researcher from the [YRL
 
 ### :woman_technologist: My research interests include:
 
-- <b>development of intelligent systems</b>;
-- <b>model-driven engineering</b> (model driven architecture, transformation model);
-- <b>knowledge engineering</b> (extraction, acquisition, representation);
+- <b>Development of Intelligent Systems</b>;
+- <b>Model-Driven Engineering</b> (model-driven architecture, transformation model);
+- <b>Knowledge Engineering</b> (extraction, acquisition, representation);
 - <b>Semantic Web</b> (linked data, knowledge graphs, ontologies, OWL/RDF);
-- <b>natural language processing</b> (information extraction, large language models);
-- <b>table understanding</b> (table structure recognition, semantic table interpretation, table reasoning).
+- <b>Natural Language Processing</b> (information extraction, large language models);
+- <b>Table Understanding</b> (table structure recognition, semantic table interpretation, table reasoning).
 
-### ### :hammer_and_wrench: Main languages, libraries, and tools:
+### :hammer_and_wrench: Main languages, libraries, and tools:
 <table>
 <tbody>
   <tr>
@@ -33,8 +33,10 @@ My name is Nikita O. Dorodnykh. I'am a PhD and a senior researcher from the [YRL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LedZeppe1in&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### :writing_hand: Links:
+### :link: Links:
 
 :speech_balloon: [Ask me something](https://t.me/Led_Zeppe1in)
-:writing_hand: [Write me an email](mailto:tualatin32@mail.ru)
+
+:mailbox: [Write me an email](mailto:tualatin32@mail.ru)
+
 :scroll: [View my publications](https://scholar.google.com/citations?user=7GQ2ZOwAAAAJ&hl)
